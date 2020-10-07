@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HeroApi", "HeroApi\HeroApi.csproj", "{C22D2BA7-2B29-4804-8FB1-DD641D6579A4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Persistencia", "Persistencia\Persistencia.csproj", "{BA4CD247-A7B6-4370-BB3C-FD0013B617B2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modelo", "Modelo\Modelo.csproj", "{3C301EA4-F403-4811-AA2A-B07D3411FF99}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C22D2BA7-2B29-4804-8FB1-DD641D6579A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C22D2BA7-2B29-4804-8FB1-DD641D6579A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C22D2BA7-2B29-4804-8FB1-DD641D6579A4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C22D2BA7-2B29-4804-8FB1-DD641D6579A4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA4CD247-A7B6-4370-BB3C-FD0013B617B2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA4CD247-A7B6-4370-BB3C-FD0013B617B2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA4CD247-A7B6-4370-BB3C-FD0013B617B2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA4CD247-A7B6-4370-BB3C-FD0013B617B2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C301EA4-F403-4811-AA2A-B07D3411FF99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C301EA4-F403-4811-AA2A-B07D3411FF99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C301EA4-F403-4811-AA2A-B07D3411FF99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C301EA4-F403-4811-AA2A-B07D3411FF99}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1F4EDEFB-4FB7-4A99-9985-3D8ED501AA49}
+	EndGlobalSection
+EndGlobal
